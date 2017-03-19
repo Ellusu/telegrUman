@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <item>
+        <name>atr0</name>
+        <default></default>
+        <temporany></temporany>
+    </item>
+    <item>
+        <name>atr1</name>
+        <default></default>
+        <temporany></temporany>
+    </item>
+    <item>
+        <name>atr2</name>
+        <default></default>
+        <temporany></temporany>
+    </item>
+</config>
